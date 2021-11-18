@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_activity_camera_mode.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/activity_camera_mode.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_activity_dataset_mode.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/activity_dataset_mode.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-hdpi_ic_folder.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-hdpi/ic_folder.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable_border.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_choose_dialog.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/choose_dialog.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_filechooser_show.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/filechooser_show.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-hdpi_ic_file_unknown.jpg.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-hdpi/ic_file_unknown.jpg"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_activity_dataset_orb.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/activity_dataset_orb.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_filechooser_gridview_item.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/filechooser_gridview_item.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/layout_activity_camera_orb.xml.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/layout/activity_camera_orb.xml"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/res/merged/debug/drawable-hdpi_ic_ppt.jpg.flat",
+        "source": "/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/drawable-hdpi/ic_ppt.jpg"
+    }
+]

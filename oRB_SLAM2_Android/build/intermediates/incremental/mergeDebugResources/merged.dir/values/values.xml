@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ORB_SLAM2_Android</string>
+    <string name="camera_mode">CameraMode</string>
+    <string name="dataset_mode">DataSetMode</string>
+    <string name="dataset_select_pics">select a dataset</string>
+    <string name="dataset_select_voc">select Voc.txt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_title">ORB_SLAM2\n for Android</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <declare-styleable name="CameraBridgeViewBase">
+       <attr format="boolean" name="show_fps"/>
+       <attr format="integer" name="camera_id">
+          <enum name="any" value="-1"/>
+          <enum name="back" value="99"/>
+          <enum name="front" value="98"/>
+       </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,7 @@
+#Thu Nov 18 16:30:33 CST 2021
+base.1=/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/dex/debug/mergeLibDexDebug/out
+path.1=classes_0.dex
+base.0=/Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/dex/debug/mergeProjectDexDebug/out
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

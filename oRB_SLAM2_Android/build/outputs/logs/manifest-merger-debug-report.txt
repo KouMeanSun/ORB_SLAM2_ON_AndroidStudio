@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+MERGED from [:openCVLibrary249] /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/openCVLibrary249/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:6:5-97
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:6:22-78
+supports-screens
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:8:5-13:39
+	android:largeScreens
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:11:9-37
+	android:resizeable
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:12:9-34
+	android:anyDensity
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:9:9-34
+uses-permission#android.permission.CAMERA
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:15:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:18:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:21:9-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:24:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:27:9-63
+application
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:30:5-66:19
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:33:9-41
+	android:icon
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:32:9-38
+	android:allowBackup
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:34:9-40
+activity#orb.slam2.android.ui.CameraActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:35:9-64
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:35:19-52
+activity#orb.slam2.android.ui.MainActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:39:13-50
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:37:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:43:27-74
+activity#orb.slam2.android.ui.DataSetModeActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:46:9-49:62
+	android:screenOrientation
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:49:13-50
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:48:13-40
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:47:13-51
+activity#orb.slam2.android.ui.CameraModeActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:50:9-53:62
+	android:screenOrientation
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:53:13-50
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:52:13-39
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:51:13-50
+activity#orb.slam2.android.ui.FileChooserActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:54:9-57:62
+	android:screenOrientation
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:57:13-50
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:55:13-51
+activity#orb.slam2.android.ui.ORBSLAMForDataSetActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:58:9-61:62
+	android:screenOrientation
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:61:13-50
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:60:13-38
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:59:13-57
+activity#orb.slam2.android.ui.ORBSLAMForCameraActivity
+ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:62:9-65:62
+	android:screenOrientation
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:65:13-50
+	android:label
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:64:13-38
+	android:name
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml:63:13-56
+uses-sdk
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+MERGED from [:openCVLibrary249] /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/openCVLibrary249/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary249] /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/openCVLibrary249/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		ADDED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaomingyang/Documents/androidWorkspace/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/AndroidManifest.xml
